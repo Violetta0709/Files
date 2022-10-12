@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb82a0dc-12b6-4181-ab7e-9816390921f2" name="Changes" comment="1st commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/veta/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/veta/JacksonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/veta/jsonClasses/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/student.json" afterDir="false" />
-    </list>
+    <list default="true" id="eb82a0dc-12b6-4181-ab7e-9816390921f2" name="Changes" comment="homework(zip files)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +202,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665600290061</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hw">
+      <created>1665609217358</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665609217359</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework(zip files)">
+      <created>1665609415360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665609415360</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -226,6 +235,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
+    <MESSAGE value="hw" />
+    <MESSAGE value="homework(zip files)" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework(zip files)" />
   </component>
 </project>

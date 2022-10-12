@@ -1,0 +1,13 @@
+{
+  "name": "Veta",
+  "phone": 123456789,
+  "isStudent": true,
+  "subjects": [
+    "Maths",
+    "Art"
+  ],
+  "studentID": {
+    "number": "123456",
+    "issueDate": "12.12.2020"
+  }
+}

@@ -19,7 +19,6 @@
 *.nar
 *.ear
 *.tar.gz
-*.rar
 *.iml
 
 # Project gen files
